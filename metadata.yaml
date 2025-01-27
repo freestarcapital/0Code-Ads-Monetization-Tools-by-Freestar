@@ -1,0 +1,5 @@
+homepage: "https://freestar.com/"
+documentation: "https://github.com/freestarcapital/freestar-wrapper-gtm-template"
+versions:
+  - sha: 
+    changeNotes: Initial release.
