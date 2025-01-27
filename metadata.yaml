@@ -1,5 +1,5 @@
 homepage: "https://freestar.com/"
-documentation: "https://github.com/freestarcapital/freestar-wrapper-gtm-template"
+documentation: "https://resources.freestar.com/docs/google-tag-manager-beta"
 versions:
   - sha: 
     changeNotes: Initial release.
